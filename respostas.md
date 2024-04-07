@@ -33,3 +33,5 @@ ex: echo $time["cruzeiro"];
 9: R: É um ambiente de desenvolvimento web open source. Ele oferece praticidade para o desenvolvedor, uma vez que ele tem, teoricamente, todo o necessário para buildar uma aplicação web através do XAMPP, sem a necessidade de integrar manualmente diferentes tipos de software à sua aplicação.
 
 10. R: É uma forma de armazenar um dado dinâmico e manipulável no PHP. Você pode referenciar uma váriável dentro de uma string, se você utilizar aspas duplas nessa string, o que não é possível se você utilizar aspas simples;
+
+11. https://www.figma.com/file/pCU610GcEZU5esz3p830hT/Prova-Pr%C3%A1tica---PHP?type=whiteboard&node-id=0%3A1&t=KhmU6jTKLtQgGrAp-1
